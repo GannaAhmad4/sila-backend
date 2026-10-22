@@ -1,0 +1,8 @@
+﻿node_modules/
+__pycache__/
+*.pyc
+.env
+uploads/videos/*
+!uploads/videos/.gitkeep
+temp_data/
+*.mp4
